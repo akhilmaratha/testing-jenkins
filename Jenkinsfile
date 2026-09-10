@@ -8,7 +8,7 @@ pipeline {
 
             steps {
 
-                bat 'python hello.py'
+                bat '"C:\\Users\\akhil\\AppData\\Local\\Python\\bin\\python.exe" hello.py'
 
             }
 
