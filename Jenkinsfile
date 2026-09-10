@@ -8,7 +8,7 @@ pipeline {
 
             steps {
 
-                bat 'python hello.py'
+                bat 'py hello.py'
 
             }
 
